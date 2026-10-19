@@ -1,0 +1,17 @@
+.page-wrapper {
+  width: 100%; /* Ensures it takes full width on small screens */
+  max-width: 800px; /* The page will never grow wider than 1200px */
+  margin: 0 auto; /* Centers the wrapper horizontally on the screen */
+  padding: 0 20px; /* Adds breathing room on mobile so text doesn't touch the edges */
+  box-sizing: border-box; /* Ensures padding doesn't push the width past 1200px */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
