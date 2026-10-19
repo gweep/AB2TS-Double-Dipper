@@ -19,7 +19,7 @@ I used a red LED (QRP) as the first/passive circuit dip indicator and a green LE
 
 ## Video Demonstration of the Double Dipper
 
-[![Watch the video](https://youtube.com/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
+[[Watch the video](https://youtube.com/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
 
 
 
