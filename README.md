@@ -19,7 +19,7 @@ I used a red LED (QRP) as the first/passive circuit dip indicator and a green LE
 
 ## Video Demonstration of the Double Dipper
 
-[![Watch the video](https://youtu.be/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
+[![Watch the video](https://youtube.com/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
 
 
 
@@ -43,8 +43,6 @@ I used a red LED (QRP) as the first/passive circuit dip indicator and a green LE
 ## Schematic Diagram
 
 ![image](./docs/AB2TS_Double_Dipper_RevE.bmp)
-
-![image](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematic/AB2TS_Double_Dipper_RevE.bmp)
 
 Find the Double Dipper schematic here:  [Visit GitHub](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematic/AB2TS_Double_Dipper_RevE.pdf)
 
