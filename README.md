@@ -39,13 +39,13 @@ Here is a link to a YouTube video that demonstrates the very low power functiona
 - The schematic shows an un-necessary 1N4148 diode and a 0.01uF disk capacitor. The were used in one of the previous evolutions to show a relative power output. You may ommit these parts.
 - You can use 1k resistors everywhere a 910R resistor is called out. I picked up a ton them surplus so that is a go-to value for me.
 
-## Recommended Double Dipper Schematic Diagram
-
-![image](./docs/Double_Dipper_AB2TS_Rev-.jpg)
-
 ## Prototype Schematic Diagram
 
 ![image](./docs/AB2TS_Double_Dipper_Prototype_RevE.jpg)
+
+## Recommended Double Dipper Schematic Diagram
+
+![image](./docs/Double_Dipper_AB2TS_Rev-.jpg)
 
 ## An Early Build: BLT Style, Two LED - Schematic Diagram
 
