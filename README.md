@@ -2,7 +2,7 @@
 
 ## By Michael Sciascia, AB2TS
 
-![image](./docs/double_dipper.jpeg)
+![image](./docs/double_dipper_prototype.jpeg)
 
 
 
@@ -40,11 +40,41 @@ I used a red LED (QRP) as the first/passive circuit dip indicator and a green LE
 - The schematic shows an un-necessary 1N4148 diode and a 0.01uF disk capacitor. The were used in one of the previous evolutions to show a relative power output. You may ommit these parts.
 - You can use 1k resistors everywhere a 910R resistor is called out. I picked up a ton them surplus so that is a go-to value for me.
 
-## Schematic Diagram
 
-![image](./docs/AB2TS_Double_Dipper_RevE.bmp)
+## Recommended Double Dipper Schematic Diagram
 
-Find the Double Dipper schematic here:  [Visit GitHub](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematic/AB2TS_Double_Dipper_RevE.pdf)
+![image](./docs/Double_Dipper_AB2TS_Rev-.jpg)
+
+
+
+
+
+## Prototype Schematic Diagram
+
+![image](./docs/AB2TS_Double_Dipper_Prototype_RevE.jpg)
+
+
+
+
+
+## An Early Build: BLT Style, Two LED - Schematic Diagram
+This version had two separate LEDs.
+
+![image](./docs/AB2TS_BLT_Plus_Early_DD.jpg)
+
+
+
+
+
+## An Early Build: BLT Style, Two LED
+
+![image](./docs/IMG_7211.jpg)
+
+
+
+
+
+Find the Double Dipper schematic here:  [Visit GitHub](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematics/)
 
 
 
