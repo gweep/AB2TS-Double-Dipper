@@ -4,8 +4,6 @@
 
 ![image](./docs/double_dipper_prototype.jpeg)
 
-
-
 I often operate a WSPR beacon at power levels well below 100mW; sometimes as low as 20mW. Tuning an antenna at these power levels is can be difficult as the transmitter does not provide sufficent power to satisfactorily illuminate the LED in the familiar passively powered QRP SWR bridge. When driven with very low power, the familiar QRP resistive SWR bridge will often drop of into a very wide information black-out: if the LED manages to illuminate at all.
 
 The resistive QRP/QRPp(p) SWR bridge presented is the result of many design iterations and 8 years of regular operation in its final form. The bridge's unique feature is that it has two distinct SWR indicator circuits that work together to create an LED SWR tuning indicator that works down to 10mW.
@@ -16,12 +14,13 @@ The second indicator circuit employed by the Double Dipper is an active design w
 
 I used a red LED (QRP) as the first/passive circuit dip indicator and a green LED (QRPpp) for the second/active circuit dip indicator. The design coordinates the LEDs so that only one LED is illuminated at any time. During the process of tuning an antenna you will see in sequence that; the red LED illuminates initially due to an unmatched condition, then it dips as you approach a match. Given that the red LED (QRP) is dipped/dark, the second circuit is activated and the green LED (QRPpp) illuminates. You may continue to fine tune the match until the green LED also dips. Hence, the name DOUBLE DIPPER.
 
-
 ## Video Demonstration of the Double Dipper
 
-[[Watch the video](https://youtube.com/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
+Here is a link to a YouTube video that demonstrates the very low power functionality of the Double dipper. The first minute of the video demonstates standard QRP operation. The remainder of the video demostrates the very low power functionality.
 
+### Watch the Video
 
+[[Demonstation video](https://youtube.com/OQvXBf5M578)](https://youtu.be/OQvXBf5M578)
 
 ## Here are some operating cases
 
@@ -40,51 +39,29 @@ I used a red LED (QRP) as the first/passive circuit dip indicator and a green LE
 - The schematic shows an un-necessary 1N4148 diode and a 0.01uF disk capacitor. The were used in one of the previous evolutions to show a relative power output. You may ommit these parts.
 - You can use 1k resistors everywhere a 910R resistor is called out. I picked up a ton them surplus so that is a go-to value for me.
 
-
 ## Recommended Double Dipper Schematic Diagram
 
 ![image](./docs/Double_Dipper_AB2TS_Rev-.jpg)
-
-
-
-
 
 ## Prototype Schematic Diagram
 
 ![image](./docs/AB2TS_Double_Dipper_Prototype_RevE.jpg)
 
-
-
-
-
 ## An Early Build: BLT Style, Two LED - Schematic Diagram
-This version had two separate LEDs.
 
 ![image](./docs/AB2TS_BLT_Plus_Early_DD.jpg)
-
-
-
-
 
 ## An Early Build: BLT Style, Two LED
 
 ![image](./docs/IMG_7211.jpg)
 
-
-
-
-
-Find the Double Dipper schematic here:  [Visit GitHub](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematics/)
-
-
-
-
+Find the Double Dipper schematics here: [Visit GitHub](https://github.com/gweep/AB2TS-Double-Dipper/blob/master/schematics/)
 
 Copyright 2026 by Michael Sciascia. All rights reserved.
 
 This work is licensed under
 Creative Commons BY-NC-SA 4.0 / Attribution-NonCommercial-ShareAlike 4.0 International.
-https://creativecommons.org/licenses/by-nc-sa/4.0/.  
+https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
